@@ -2,6 +2,9 @@
 
 Ce projet Streamlit permet d'extraire automatiquement les **transactions bancaires** à partir d’un **relevé scanné au format PDF**, en utilisant un modèle **LLaMA 4 hébergé sur Hugging Face**.
 
+<img width="862" alt="Capture Interface streamlit 1" src="https://github.com/user-attachments/assets/deb603db-607c-4075-8e6d-2247a21d8b1f" />
+
+
 ## 🚀 Fonctionnalités
 
 - 📤 Upload d’un fichier PDF contenant des relevés bancaires scannés  
@@ -16,6 +19,9 @@ Ce projet Streamlit permet d'extraire automatiquement les **transactions bancair
 - 📥 Export en **fichier Excel (.xlsx)**
 
 ---
+
+<img width="350" alt="Capture Interface streamlit 3" src="https://github.com/user-attachments/assets/64296e7e-f3f5-436c-81f8-90149610dccf" />
+
 
 ## 🧪 Exemple d'utilisation
 
