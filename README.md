@@ -18,9 +18,11 @@ Ce projet Streamlit permet d'extraire automatiquement les **transactions bancair
 - 📊 Affichage dans un tableau Streamlit
 - 📥 Export en **fichier Excel (.xlsx)**
 
----
+<img width="794" alt="Capture Interface streamlit 2" src="https://github.com/user-attachments/assets/050a5c54-e7c6-4f7f-ad6f-31a8ec8fe199" />
 
 <img width="350" alt="Capture Interface streamlit 3" src="https://github.com/user-attachments/assets/64296e7e-f3f5-436c-81f8-90149610dccf" />
+
+---
 
 
 ## 🧪 Exemple d'utilisation
